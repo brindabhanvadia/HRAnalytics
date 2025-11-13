@@ -1,4 +1,4 @@
-# HRAnalytics
+# HR Analytics Dashboard - POwerBI - Excel
 Problem Statement
 
 Within the organization, the HR department bears the responsibility of monitoring and overseeing diverse facets of employee data to ensure the maintenance of a healthy workforce. Nevertheless, a notable deficiency exists in terms of well-defined performance indicators to systematically track and analyze critical HR metrics. To address this challenge, the project was structured around several pivotal components, meticulously designed to offer invaluable insights and hands-on experience.
